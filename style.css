@@ -752,13 +752,7 @@ label {
 		  border-radius: 20px;
 		  border: none;
 		  background-color: #31274a;
-	  }
-
-	  .btnn a{
-		  text-decoration: none;
 		  color: wheat;
-		  font-size: 15px;
-		  font-weight: bold;
 	  }
 	  
 	 .btnn:hover{
